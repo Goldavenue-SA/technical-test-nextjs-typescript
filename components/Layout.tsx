@@ -13,8 +13,6 @@ export const Main = styled.div`
   flex: 1;
   display: flex;
   flex-direction: column;
-  justify-content: center;
-  align-items: center;
 `;
 
 export const Layout = (page: ReactElement): JSX.Element => {
